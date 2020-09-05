@@ -16,7 +16,7 @@ These are some of the technologies and tools that I work with:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-6D1CAC?style=flat-square&logo=redux)
-![NextJS](https://img.shields.io/badge/-NextJS-111111?style=flat-square&logo=nextjs)
+![NextJS](https://img.shields.io/badge/-NextJS-20232a?style=flat-square&logo=nextjs)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook&logoColor=#FF4785)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-171E26?style=flat-square&logo=graphql&logoColor=E10098)
