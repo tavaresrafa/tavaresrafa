@@ -20,7 +20,7 @@ These are some of the technologies and tools that I work with:
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook&logoColor=#FF4785)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-171E26?style=flat-square&logo=graphql&logoColor=E10098)
-![Webpack](https://img.shields.io/badge/-Storybook-2B3A42?style=flat-square&logo=webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack)
 ![npm](https://img.shields.io/badge/-npm-231f20?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
