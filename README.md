@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey {name} 🤘
 
 I'm a dual-citizen (Portugal/Brazil) Front-End Developer with 6 years of professional experience in developing mid to large scale websites and web applications, based on web technologies like HTML5, CSS3 and JavaScript.
 
