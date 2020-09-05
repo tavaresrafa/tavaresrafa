@@ -4,7 +4,7 @@ I'm a dual-citizen (Portugal/Brazil) Front-End Developer with 6 years of profess
 
 [![Linkedin: rstavares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/rstavares/en)
 
-## ⚡ Technologies
+## 💻 Technologies
 
 These are some of the technologies and tools that I work with:
 
