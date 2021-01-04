@@ -23,6 +23,5 @@ These are some of the technologies and tools that I work with:
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack)
 ![npm](https://img.shields.io/badge/-npm-231f20?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
