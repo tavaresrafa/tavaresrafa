@@ -8,14 +8,14 @@ I'm a dual-citizen (Portugal/Brazil) Front-End Developer with 6 years of profess
 
 These are some of the technologies and tools that I work with:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Styled-Components](https://img.shields.io/badge/-StyledComponents-2B3A42?style=flat-square&logo=styled-components)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-6D1CAC?style=flat-square&logo=redux)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-2B3A42?style=flat-square&logo=styled-components)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-20232a?style=flat-square&logo=nextjs)
 ![Jest](https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest)
 ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook&logoColor=#FF4785)
