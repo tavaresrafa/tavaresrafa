@@ -1,6 +1,6 @@
 ### Hey {name} 🤘
 
-I'm a dual-citizen (Portugal/Brazil) Front-End Developer with 6 years of professional experience in developing mid to large web applications, based on technologies like JavaScript, React, TypeScript, CSS and HTML.
+I'm a dual-citizen (Portugal/Brazil) Front-End Developer with 8 years of professional experience in developing mid to large web applications, based on technologies like JavaScript, React, TypeScript, CSS and HTML.
 
 [![Linkedin: rstavares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/rstavares/en)
 
