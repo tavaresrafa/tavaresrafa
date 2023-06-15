@@ -3,6 +3,7 @@
 I am Front End Developer with experience in developing mid to large web applications, based on technologies like JavaScript, React, TypeScript, CSS and HTML.
 
 I'm a dual-citizen (Portugal / Brazil) and I have the EU Passport, which allows me to live and work in any country from Europe Union.
+
 [![Linkedin: rstavares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/rstavares/en)
 
 ## 💻 Technologies
