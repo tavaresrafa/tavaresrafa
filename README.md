@@ -1,8 +1,6 @@
 ### Hey {name} 🤘
 
-iOS Developer: At the moment I'm migrating to iOS Development, while studying I'm also doing Freelance Projects to get experience.
-
-Most of my career was working as Front End Developer, which I have almost 8 years of experience in developing mid to large web applications, based on technologies like JavaScript, React, CSS and HTML.
+I'm a Software Engineer with almost 8 years of experience in developing mid to large applications, based on technologies like Swift, SwiftUI, UIKit, JavaScript, React, CSS and HTML.
 
 I'm a dual-citizen (Portugal / Brazil) and I have the EU Passport, which allows me to live and work in any country from Europe Union.
 
