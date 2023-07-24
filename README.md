@@ -1,6 +1,8 @@
 ### Hey {name} 🤘
 
-I am Front End Developer with experience in developing mid to large web applications, based on technologies like JavaScript, React, TypeScript, CSS and HTML.
+iOS Developer: At the moment I'm migrating to iOS Development, while studying I'm also doing Freelance Projects to get experience.
+
+Most of my career was working as Front End Developer, which I have almost 8 years of experience in developing mid to large web applications, based on technologies like JavaScript, React, CSS and HTML.
 
 I'm a dual-citizen (Portugal / Brazil) and I have the EU Passport, which allows me to live and work in any country from Europe Union.
 
@@ -10,8 +12,11 @@ I'm a dual-citizen (Portugal / Brazil) and I have the EU Passport, which allows 
 
 These are some of the technologies and tools that I work with:
 
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-006ffd?style=flat-square&logo=swift&logoColor=black)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-6D1CAC?style=flat-square&logo=redux)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
