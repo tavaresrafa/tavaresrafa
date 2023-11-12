@@ -1,6 +1,6 @@
 ### Hey { name } 🤘
 
-I'm a Software Developer with 7 years of experience in developing mid to large applications, based on technologies like:
+I'm a Software Engineer with 7 years of experience in developing mid to large applications, based on technologies like:
 
 - JavaScript
 - TypeScript
