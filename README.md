@@ -5,7 +5,7 @@ I'm a Software Engineer with 7 years of experience in developing mid to large ap
 - JavaScript
 - TypeScript
 - React
-- Node
+- NodeJS
 - Go
 - CSS
 - HTML
