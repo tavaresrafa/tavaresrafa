@@ -9,11 +9,12 @@ I'm a Software Engineer with 7 years of experience in developing mid to large ap
 - Go
 - CSS
 - HTML
+- React Native
 - Swift
 - SwiftUI
 
 
-I'm a dual-citizen (Portugal / Brazil) and I have the EU Passport, which allows me to live and work in any country from Europe Union.
+I'm a dual citizen (Portugal / Brazil), the EU Passport allows me to live and work in any country from Europe Union.
 
 [![Linkedin: rstavares](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rstavares)](https://www.linkedin.com/in/rstavares)
 
