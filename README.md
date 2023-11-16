@@ -1,17 +1,14 @@
 ### Hey { name } 🤘
 
-I'm a Software Engineer with 7 years of experience in developing mid to large applications, based on technologies like:
+I'm a Software Engineer with experience in developing mid to large applications, based on technologies like:
 
 - JavaScript
 - TypeScript
 - React
-- NodeJS
+- Node
 - Go
 - CSS
 - HTML
-- React Native
-- Swift
-- SwiftUI
 
 
 I'm a dual citizen (Portugal / Brazil), the EU Passport allows me to live and work in any country from Europe Union.
